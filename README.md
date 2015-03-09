@@ -48,7 +48,10 @@
  >
  ucore lab8的answer的系统调用大约有20多个，
  主要有文件操作，进程管理，内存管理等。
-  
+ 
+ 
+ 
+ 
  
 ## 3.4 linux系统调用分析
  1. 通过分析[lab1_ex0](https://github.com/chyyuu/ucore_lab/blob/master/related_info/lab1/lab1-ex0.md)了解Linux应用的系统调用编写和含义。(w2l1)
